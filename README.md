@@ -1,4 +1,4 @@
-# AA284RocketDesign
+# AA284Rocket
 Links to project documentation from my AA284B Propulsion System Design course at Stanford in January-March 2020. This project was cancelled before it was built due to the onset of the COVID-19 pandemic.
 
 ## [Stanford-AA284-2020/Design-Document-Archive](https://github.com/Stanford-AA284-2020/Design-Document-Archive)
